@@ -1,0 +1,13 @@
+#nav-bar{background-color:#F4AF1B; position: sticky; top:0; z-index:10; float: right;}
+.nav-link:hover{background-color: #00154f;}
+.navbar{padding: 0 !important;}
+.navbar-nav li{padding: 0 10px;}
+.navbar-nav li a{color:rgb(0, 0, 0) !important; font-weight:600; float:right; text-align:left;}
+.navbar-nav li a:hover{color:rgb(255, 255, 255) !important;}
+.fa-bars{color:#fff; font-size:30p !important;}
+.navbar-toggler{outline:none !important;}
+.about{padding-left: 20%; padding-right: 20%; padding-top: 5%; padding-bottom: 10%; background-color: #F4AF1B;}
+h2, h3{text-align: center;}
+h5{text-align: left;}
+#footer{background-color:#00154f; color:#fff; padding: 4% 25%; text-align: center;}
+#main{text-align: center; background:#00154f; background-size: cover; color:rgb(255, 255, 255); padding-top:5%;}
