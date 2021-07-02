@@ -22,7 +22,7 @@ body{font-family:sans-serif;}
 font-size: 25px; border-radius: 25px; height: 75px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
 .home-button:hover{background-color: #000000;color: white; transition: 0.3s;
 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
-img{
+.bank-img{
    width: 30%;
    display: block;
    margin-left: auto;
